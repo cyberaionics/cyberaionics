@@ -19,7 +19,7 @@
   ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║  ██║██║╚██████╔╝██║ ╚████║██║╚██████╗███████║
    ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝
 
-                   [ AI • CYBERSECURITY • RESEARCH ]
+                                [ AI • CYBERSECURITY • RESEARCH ]
 
 ══════════════════════════════════════════════════════════════════════════════════════════════
 
@@ -31,8 +31,10 @@
 ```cpp
 while(alive){
     Learn();
-    Build();
     Research();
+    Build();
+    Break();
+    Secure();
 }
 ```
 
@@ -62,17 +64,6 @@ and multi swarm drones
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=cyberaionics&show_icons=true&theme=tokyonight"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberaionics&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberaionics&theme=tokyonight"/>
 
 </p>
@@ -85,12 +76,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberaionics
 
 ## 🚀 Featured Projects
 
-Coming Soon...
-
 
 <a href="https://github.com/cyberaionics/LLM-From-Scratch">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberaionics&repo=LLM-From-Scratch&theme=tokyonight"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=cyberaionics&layout=donut-vertical&langs_count=16&hide_values=true&theme=gruvbox_light"/>
 
 </a>
 
