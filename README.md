@@ -96,12 +96,6 @@ and multi swarm drones
 - Systems Programming
 
 
-
-## 📝 Latest Articles
-
-Coming Soon...
-
-
 ## 🏆 Achievements
 
 <p align="center">
