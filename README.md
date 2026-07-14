@@ -117,7 +117,7 @@ Coming Soon...
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cyberaionics&theme=tokyonight&column=4">
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=cyberaionics&theme=tokyonight&column=4">
 
 </p>
 
@@ -126,12 +126,16 @@ Coming Soon...
 
 <p align="center">
 
-<a href="https://linkedin.com/in/...">
+<a href="https://linkedin.com/in/atcysec">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:ankush.tarafdar@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://cyberaionics.github.io/website">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
