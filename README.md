@@ -36,15 +36,18 @@ while(alive){
 }
 ```
 
+
 I enjoy building AI systems,
 post-quantum cryptography,
 offensive security tools,
 autonomous agents,
 and multi swarm drones
 
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=cyberaionics&style=for-the-badge">
 </p>
+
 
 ## ⚙️ Tech Stack
 
@@ -54,6 +57,81 @@ and multi swarm drones
 
 </p>
 
+
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=cyberaionics&style=for-the-badge">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=cyberaionics&show_icons=true&theme=tokyonight"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberaionics&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberaionics&theme=tokyonight"/>
+
+</p>
+
+
+## 📈 Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cyberaionics&theme=tokyo-night)]()
+
+
+## 🚀 Featured Projects
+
+Coming Soon...
+
+
+<a href="https://github.com/cyberaionics/LLM-From-Scratch">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberaionics&repo=LLM-From-Scratch&theme=tokyonight"/>
+
+</a>
+
+
+
+## 🔬 Research Interests
+
+- Large Language Models
+- AI Agents
+- Post Quantum Cryptography
+- Reverse Engineering
+- Malware Analysis
+- eBPF
+- Systems Programming
+
+
+
+## 📝 Latest Articles
+
+Coming Soon...
+
+
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cyberaionics&theme=tokyonight&column=4">
+
+</p>
+
+
+## 📫 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/...">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
